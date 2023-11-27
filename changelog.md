@@ -1,0 +1,1 @@
+no es ke paza, es "k paza pisha"
