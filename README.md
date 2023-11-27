@@ -1,3 +1,3 @@
-## Ke paza
+## Ke paza [changelog](./changelog.md)
 
 # maskina
